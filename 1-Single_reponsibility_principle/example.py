@@ -1,3 +1,4 @@
+# Ejemplo con el principio de responsabilidad única aplicada.
 # Esta clase solo se encarga de guarda los datos del cliente.
 class Client:
     def __init__(self, name, age):
