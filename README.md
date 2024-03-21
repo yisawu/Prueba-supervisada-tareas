@@ -1,2 +1,3 @@
-# Single-responsibility-principle
-Homework1: about Single responsibility principle
+# Curso: Prueba Supervida
+
+Repo para las tareas del curso.
