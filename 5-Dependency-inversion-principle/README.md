@@ -9,3 +9,5 @@ El objetivo es reducir las dependencias entre los módulos del código, es decir
 ## Ejemplo
 
 En un sistema donde tenemos una clase **Usuario** que depende de una clase **Logger** para realizar el registro de eventos. Donde la clase **Usuario** depende de la interfaz **LoggerInterface** en lugar de depender directamente de la clase **Logger**, cumpliendo así con el DIP.
+
+Well Done!
