@@ -11,3 +11,5 @@ El ejemplo es sobre un modulo que calcula el área de un circulo. Pero tiempo de
 Una posible solución para esto es, dentro del método calcularArea(), utilizar la condición `if` para averiguar qué tipo de figura es y utilizar la fórmula para calcular el área de la figura correspondiente. Pero esta solución rompe con el principio al ser un método propenso a la modificación constante.
 
 Por lo que, una posible solución que cumpla con el principio es utilizar herencia y polimorfismo. En este caso, el ejemplo se hizo en el lenguaje C++.
+
+Good exmaple!
