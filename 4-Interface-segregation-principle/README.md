@@ -9,3 +9,5 @@ Esto es para evitar que las clases implementen métodos innecesarios y, en su lu
 ## Ejemplo
 
 Tenemos una interfaz llamada **Impresora** que tiene dos métodos: **imprimir** y **escanear**. Luego tenemos dos clases que implementan esta interfaz, pero cada una solo necesita implementar un método.
+
+Perfect!
