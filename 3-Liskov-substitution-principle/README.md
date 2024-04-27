@@ -7,3 +7,4 @@ Dicho de forma simple, si tienes una clase base y una clase derivada que hereda 
 ## Ejemplo
 
 Tenemos una clase base llamada **Figura** y dos clases derivadas llamada **Rectángulo** y **Cuadrado**. El principio de sustitución de Liskov se aplicaría si se puede usar un objeto de la clase **Rectángulo** o de la clase **Cuadrado** en cualquier lugar donde se espera un objeto de la clase **Figura** sin cambiar el comportamiento del programa.
+Good job
